@@ -9,17 +9,7 @@ export default function info() {
         <div className="row">
           <div className="col-10 col-sm-8 mx-auto text-center">
             <p className="lead text-muted mb-5">
-              Lorem ipsum dolor sit amet consectetur adipisicing elit.
-              Enim ipsam magni cupiditate reprehenderit doloribus omnis
-              temporibus tempore rerum, suscipit, nisi itaque est ex dolores
-              architecto dolor amet? Possimus itaque totam distinctio soluta
-              harum quae veritatis sed. Sed iste fugit ex nulla ipsam veritatis
-              itaque cupiditate, omnis tempora saepe aperiam quam molestiae ducimus
-              praesentium ipsum voluptates, neque doloribus maxime ea, consectetur
-              unde iusto quas odit? Earum id excepturi fugit quis atque corrupti,
-               ducimus placeat natus, dolore at consectetur unde vel omnis sapiente
-               maxime mollitia eius? Voluptates quaerat omnis quidem maiores unde iste,
-               nulla sit tempore distinctio! Totam cum architecto corrupti odit?
+              Elegance Trade Center at the heart of Pokhara has been serving with dedication and perfection since 1985. The flooring, furnishing and furniture hub has been serving the customers with products from around the globe.
             </p>
             <Link to="/about">
               <button className="btn text-uppercase btn-yellow">
